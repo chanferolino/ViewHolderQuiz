@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movies">
+        <item> Rogue One: A Star Wars Story</item>
+        <item>Deadpool  </item>
+        <item>The Forest </item>
+        <item>Batman v Superman: Dawn of Justice </item>
+        <item>Captain America: Civil War </item>
+        <item>X-Men: Apocalypse </item>
+        <item>Ghostbusters </item>
+        <item>Suicide Squad </item>
+        <item>Assassin's Creed </item>
+        <item>13 Hours: The Secret Soldiers of Benghazi </item>
+    </string-array>
+    <string-array name="genre">
+        <item>Action, Adventure, Fantasy </item>
+        <item>Action, Adventure, Sci-Fi  </item>
+        <item>Horror </item>
+        <item>Action, Adventure, Fantasy </item>
+        <item>Action, Sci-Fi, Thriller   </item>
+        <item>Action, Adventure, Fantasy  </item>
+        <item>Action, Comedy, Sci-Fi  </item>
+        <item>Action </item>
+        <item>Action, Adventure, History  </item>
+        <item>Action, Drama, Thriller </item>
+    </string-array>
+    <string-array name="coverphoto">
+        <item>@drawable/c1 </item>
+        <item>@drawable/c2 </item>
+        <item>@drawable/c3 </item>
+        <item>@drawable/c4 </item>
+        <item>@drawable/c5 </item>
+        <item>@drawable/c6 </item>
+        <item>@drawable/c7 </item>
+        <item>@drawable/c8 </item>
+        <item>@drawable/c9 </item>
+        <item>@drawable/c10 </item>
+    </string-array>
+    <string-array name="description">
+        <item>Rebels set out on a mission to steal the plans for the Death Star. </item>
+        <item>A former Special Forces operative turned mercenary is subjected to
+a rogue experiment that leaves him with accelerated
+healing powers and adopts the alter ego Deadpool. </item>
+        <item>A woman goes into Japan's Suicide Forest to find her twin sister,
+and confronts supernatural terror. </item>
+        <item>Fearing the actions of Superman left unchecked, Batman takes on Superman,
+ while the world wrestles with what kind of a hero the world really needs. </item>
+        <item>Political interference in the Avengers' activities causes
+a rift between former allies Captain America and Iron Man. </item>
+        <item>With the emergence of the world's first mutant, Apocalypse,
+the X-Men must unite to defeat his extinction level plan. </item>
+        <item>The plot is unknown at this time. </item>
+        <item>A secret government agency recruits imprisoned supervillains to
+execute dangerous black ops missions in exchange for clemency. </item>
+        <item>When Callum Lynch (Michael Fassbender) explores the memories
+of his ancestor Aguilar and gains the skills of a Master Assassin,
+he discovers he is a descendant of the secret Assassins society. </item>
+        <item>An American Ambassador is killed during an attack at a U.S. compound
+in Libya as a security team struggles to make sense out of the chaos. </item>
+    </string-array>
+</resources>
